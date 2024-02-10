@@ -1,0 +1,6 @@
+71274->13->(proc 1 trans 13): sch_exec(P2_0())
+404782->25->(proc 1 trans 25): x = 0
+160173->16->-end-
+1687386->27->(proc 2 trans 27): x++
+1915615->27->(proc 2 trans 27): x++
+1407522->29->(proc 2 trans 29): assert (x != 2)

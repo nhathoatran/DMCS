@@ -1,0 +1,4 @@
+1429529->13->(proc 1 trans 13): sch_exec(P2_0())
+1495526->29->(proc 2 trans 29): y--
+556072->23->-end-
+645191->28->(proc 1 trans 28): assert (y == 0)
